@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/fenyuanmao/flarum.png?label=ready&title=Ready)](https://waffle.io/fenyuanmao/flarum)
 ![Flarum](http://flarum.org/img/logo.png)
 
 **[Flarum](http://flarum.org) is free, open-source forum software** built with PHP and [Mithril.js](http://mithril.js.org). It is:
